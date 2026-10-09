@@ -1,4 +1,4 @@
 what   : dumb.co 2026 redesign -- PROTOTYPE, not the live site
-branch : dumb.co_redesign_v1
-commit : ce79f9ae
-built  : 2026-10-02 21:52 UTC
+branch : redesign-v1-feedback
+commit : 5ec19d62
+built  : 2026-10-09 15:34 UTC
