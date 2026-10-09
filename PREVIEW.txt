@@ -1,4 +1,4 @@
-what   : dumb.co new site (Astro), preview
-branch : astro-site
-commit : 06a20396
-built  : 2026-10-09 18:03 UTC
+what   : dumb.co new site, preview
+branch : dumb.co_redesign_v1
+commit : cdd80705
+built  : 2026-10-09 19:39 UTC
