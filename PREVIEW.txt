@@ -1,4 +1,4 @@
 what   : dumb.co new site, preview
 branch : dumb.co_redesign_v1
-commit : 3a60bd6c
-built  : 2026-10-13 17:00 UTC
+commit : c89212f5
+built  : 2026-10-13 17:14 UTC
